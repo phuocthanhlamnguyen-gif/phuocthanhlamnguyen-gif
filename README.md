@@ -26,13 +26,13 @@ my hobby. And also, I'm also the weirdest kid in class =(
 I'm 4'9'' (144 cm), a 37 kg (82 pounds) person. Now I'm 11-years-old and currently in grade 6. 
 And clearly, I'm at school. My hobbies are shown below.
 
-## My hobby:
+## My hobbies:
 
 I have lots of hobbies, but my favorite ones are:
  * Playing chess
  * Embedded device
  * Low-level backend
- * Math and physics (I mainly excel in practical ones)
+ * Math and physics (I mainly excel at practical ones)
 ## My programming setup:
 
 My programming setup could be one of the best, or one of the worst.
